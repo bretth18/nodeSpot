@@ -1,0 +1,18 @@
+{
+	"name": "nodeSpot",
+	"version": "0.0.1",
+	"description": "nwjs app for spotify",
+	"license": "MIT",
+	"author": "brett henderson",
+	"main": "index.html",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"pretty-bytes": "^1.0.2"
+	},
+	"window": {
+		"width": 800,
+		"height": 500
+	}
+}
